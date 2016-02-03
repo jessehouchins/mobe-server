@@ -44,7 +44,7 @@ npm install -g mobe-server
 ```
 
 Starting MOBE Server
-======================
+=======================
 If you installed it locally:
 
 ```bash
